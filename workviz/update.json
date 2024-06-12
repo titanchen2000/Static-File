@@ -1,19 +1,19 @@
 {
-  "version": "v2.1.0",
-  "notes": "Test Update version",
+  "version": "v2.2.0",
+  "notes": "Add sidebar and auto startup",
   "pub_date": "2024-05-14T17:00:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzBnQUZWM0MzN3h0S1pQbzlVdkVtdDQ1MmhiNmcwU2JPbE01SjdNd3BmS01GcmNrejVBeEpJdXdQcXhqT3pxbmx4YnlwVkpmYTM5NFJuYUI2UlRJOVF1eG50Zkp6b1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1NjcxOTY1CWZpbGU6V29ya1Zpei5hcHAudGFyLmd6CmkxeXRWZ3I2K3hBaENTdTBqSHRGNFVuaSt0enNML0M3T3pPbGlpS1pOY2dXenY1OWRyT3FEWWJFZ29mZ0M1bmt1NmxMYU5FbUM2eVp3bExZR0EyT0RBPT0K",
-      "url": "https://titanchen2000.github.io/Static-File/workviz/v2.1.0/mac/WorkViz.app.tar.gz"
+      "url": "https://titanchen2000.github.io/Static-File/workviz/latest/WorkViz.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzBnQUZWM0MzN3h0S1pQbzlVdkVtdDQ1MmhiNmcwU2JPbE01SjdNd3BmS01GcmNrejVBeEpJdXdQcXhqT3pxbmx4YnlwVkpmYTM5NFJuYUI2UlRJOVF1eG50Zkp6b1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1NjcxOTY1CWZpbGU6V29ya1Zpei5hcHAudGFyLmd6CmkxeXRWZ3I2K3hBaENTdTBqSHRGNFVuaSt0enNML0M3T3pPbGlpS1pOY2dXenY1OWRyT3FEWWJFZ29mZ0M1bmt1NmxMYU5FbUM2eVp3bExZR0EyT0RBPT0K",
-      "url": "https://titanchen2000.github.io/Static-File/workviz/v2.1.0/mac/WorkViz.app.tar.gz"
+      "url": "https://titanchen2000.github.io/Static-File/workviz/latest/WorkViz.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzBnQUZWM0MzNy9kc3FnenpySkRhanl0a09mckVHU3FaY3lBOWJPSzgwc0E2b0RqQlFOOWErKzBJOHcvWWFlb0JhdXZ0QlhESUw0L0VEeVZSb0Q4b0Z0ZXpJTjgvUHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1Njc3NTQ5CWZpbGU6V29ya1Zpel8yLjEuMF94NjQtc2V0dXAubnNpcy56aXAKOTBCVnI0RWVkQzI3ZzBWQ0gxNVRycnYyTHRpS3ZvWVlhTVZ1NEdFcG1uUXZvWXlOVUR2aThidzhBVEdabk0zTWVRYjNzUllsU2xma2oyZFFjcXFuQVE9PQo",
-      "url": "https://titanchen2000.github.io/Static-File/workviz/v2.1.0/windows/WorkViz_2.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzBnQUZWM0MzNzZuVVZQOGllZWI2RWl4RXV6K1lHQ0wxcGRIOU13blI3bjVMa2s1d2lBa3pYNzl2YXR2Y0FNQXNIU25EZ1NQcWozN1JQUmZpalg5cHhXcmZpQXhWVndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4MTkxMzc0CWZpbGU6V29ya1Zpel8yLjIuMF94NjQtc2V0dXAubnNpcy56aXAKTklXMXBTdHRRNTFSSEVqMDRlNDNyLzNPSDAvdnYvQnFoVHdXTlNuL0VlMjBhWHhXZ2JIMEhSd3dLUjVYZTlCOXhWQktYaGxlbkU4WlZlUW9ZMDFEQ1E9PQo=",
+      "url": "https://titanchen2000.github.io/Static-File/workviz/latest/WorkViz_2.2.0_x64-setup.nsis.zip"
     }
   }
 }
